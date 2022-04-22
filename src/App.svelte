@@ -1,4 +1,5 @@
 <script>
+  console.log("hi!");
   export let name;
   let fullmoon = "fullmoon.png";
   let list = [
