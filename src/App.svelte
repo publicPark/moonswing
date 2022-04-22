@@ -3,7 +3,7 @@
   let fullmoon = "fullmoon.png";
   let list = [
     {
-      link: "https://publicpark.github.io/clean/#/about",
+      link: "https://publicpark.github.io/clean",
       text: "평화로운 청소마을",
       icon: "assets/comet.png",
     },
